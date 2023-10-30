@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "50bcecbcd555a88f",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fe682d0fc4302c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36376d2b519de82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c1f8eacb8e6b928",
+    "type": "split",
+    "children": [
+      {
+        "id": "7451338f787990a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ccbda5fdf89d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d48f57f35aedfd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfdd568594c456ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73e3dee035e80b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43c29e2583200d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6139a575fc59bce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c69111b6132bd6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e099014811a758b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2528f224ebb3670f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36376d2b519de82c",
+  "lastOpenFiles": [
+    "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a/IPs Publicas Teknos 50dfcd7192ca4095963b50f25c550319.md",
+    "Seguridad 14d04bd8276442949814c99e49d89dc1/Enumeración y escaneos externos 1d0e94f18bba4d84854640e6b56bd84a.md",
+    "Seguridad 14d04bd8276442949814c99e49d89dc1.md",
+    "Seguridad 14d04bd8276442949814c99e49d89dc1/El plan 7326d8e0651149c59218745554ab36d1.md",
+    "Qué alertas a qué usuarios 4695bb8d8ae54f29a75cd1002bd9beae.md",
+    "Guardias da016cb5100a4b0cbf26522637708d7d.md",
+    "Instalación terminal server 2ac1d08083a044d4952c94e875c80049.md",
+    "Farmanet 041b2d983dbe45f8a311445abf23bce1.md",
+    "Configuración de políticas locales para restring 48ef18fbc9d545cf9504108c2f0550fb.md",
+    "Instalación terminal server 2ac1d08083a044d4952c94e875c80049/Untitled 7.png",
+    "Instalación terminal server 2ac1d08083a044d4952c94e875c80049/Untitled 3.png",
+    "Instalación terminal server 2ac1d08083a044d4952c94e875c80049/Untitled 1.png"
+  ]
+}
