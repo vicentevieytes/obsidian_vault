@@ -106,7 +106,7 @@ Navegar desde el editor de policy objects a
 
 Habilitar la política *”Prohibit acces to Control Panel and PC settings”*.
 
-![Untitled](Untitled%2010.png)
+![Untitled](Teknos/SAP%20B1/IMG%20Configuración%20de%20políticas%20locales%20para/Untitled%2010.png)
 
 ---
 

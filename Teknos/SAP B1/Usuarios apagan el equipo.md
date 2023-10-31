@@ -4,7 +4,7 @@ Campo fertil SV20,
 
 172.16.142.20
 
-![Untitled](Teknos/Usuarios%20apagan%20el%20equipo%20e80514dec69f4506a8568d73958d4c41/Untitled.png)
+![Untitled](Teknos/SAP%20B1/IMG%20Instalación%20terminal%20server/Untitled%2010.png)
 
 El usuario MCORTEO apago la maquina virtual
 
