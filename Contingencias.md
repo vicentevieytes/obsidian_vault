@@ -11,5 +11,4 @@ Se han creado las maquinas virtuales en bsas pero no están las comunicaciones c
 
 Se clona la VM
 
-
 ![[Pasted image 20231030150830.png]]
