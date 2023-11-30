@@ -1,6 +1,4 @@
-# Qué alertas a qué usuarios
-
-PRTG
+### PRTG
 Alejandro M. Pena;
 Andres Vecchiarelli;
 Eduardo Liderman;
@@ -11,26 +9,23 @@ Marcelo Alfaro;
 Mariano Castillo;
 Roberto Rossano;
 Vicente Vieytes
-
-ServerMonitor
+## ServerMonitor
 Soportehosting todos los repositorios
 Soportebasis solo repositorios SAP
 Remitentes particulares criticos
-
 (Físicos, Storage, Switches)
-
-Backup
+## Backup
 Soportehosting
 
-Dellstorage
+## Dellstorage
 Soportehosting
 
-Firewalls
+## Firewalls
 Soportehosting
 
-Proxmox
+## Proxmox
 Reporte a soportehosting
 Mails filtrado a remitentes seleccionados
 
-Alertas AD
+## Alertas AD
 Ampena y kalfaro

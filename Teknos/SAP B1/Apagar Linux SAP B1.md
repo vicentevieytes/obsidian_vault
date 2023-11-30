@@ -1,4 +1,3 @@
-# Apagar Linux SAP B1
 
 ```
 cd /etc/init.d/

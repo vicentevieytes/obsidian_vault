@@ -72,4 +72,4 @@ Las ips publicas a las que resuelven son :
 - 63.251.152.74
 - 63.251.152.78
 
-[IPs Publicas Teknos:](IPs%20Publicas%20Teknos.md)
+[IPs Publicas Teknos:](IPs%20Publicas%20de%20Teknos.md)

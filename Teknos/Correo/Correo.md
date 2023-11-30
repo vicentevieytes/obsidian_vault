@@ -1,4 +1,4 @@
 [[Exchange]]
 
-[[Qué alertas a qué usuarios]]
+[[Mails de alertas]]
 
